@@ -1,0 +1,23 @@
+---
+layout: page
+title: Images
+permalink: /images/
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% if post.type == 'image' %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+
+	  <span class="post-content"><p>{{ post.title }}</p></span>
+
+          <span class="post-content"><p>{{ post.content }}</p></span>
+	</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>
