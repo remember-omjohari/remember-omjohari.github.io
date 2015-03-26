@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-* [Youtube Channel for videos](https://www.youtube.com/channel/UCsmRco28XfCOHjT_zNhMc-A/)
+* [YouTube Channel for videos](http://www.youtube.com/channel/UCsmRco28XfCOHjT_zNhMc-A/)
 
 
 
