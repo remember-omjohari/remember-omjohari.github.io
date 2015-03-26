@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "From Chamu"
-date:   2015-03-25
+date:   2015-03-26
 type: remembrance
 categories: remembrances
 ---
