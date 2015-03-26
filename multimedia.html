@@ -1,21 +1,19 @@
 ---
 layout: page
-title: Multimedia
-permalink: /multimedia/
+title: Images
+permalink: /images/
 ---
 
 <div class="home">
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.type == 'multimedia' %}
+      {% if post.type == 'image' %}
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+	  <span class="post-content">{{ post.title }}</span>
+          <span class="post-content">{{ post.content }}</span>
+	</li>
       {% endif %}
     {% endfor %}
   </ul>
