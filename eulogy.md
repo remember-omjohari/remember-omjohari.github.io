@@ -4,7 +4,7 @@ title: Eulogy
 permalink: /eulogy/
 ---
 
-*The following eulogy was written by Dr. Johari's eldest son, Mahesh Johari*:
+*The following eulogy was written by Dr. Johari's eldest son, Mahesh Johari*.
 
 Dr. Om Johari (1940-2015)
 ===
