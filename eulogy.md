@@ -4,7 +4,7 @@ title: Eulogy
 permalink: /eulogy/
 ---
 
-*The following eulogy was written by Dr. Johari's eldest son, Mahesh Johari*.
+*The following eulogy was written by Dr. Johari's elder son, Mahesh Johari*.
 
 Dr. Om Johari (1940-2015)
 ===
@@ -31,7 +31,7 @@ Dr. Om Johari was always unusually warm-hearted and caring of people who needed 
 
 Dr. Om Johari lived life the way he wanted to live.  He would say “I live with my own breath, I cannot live with your breath.”   He was at peace with himself and satisfied with a full and productive life.  He died the way he wanted to die.  We should all be so fortunate.
 
-*In loving memory, Mahesh Johari.*
+*In loving memory, Mahesh Johari*
 
 ओम शांित शांित शांित
 
