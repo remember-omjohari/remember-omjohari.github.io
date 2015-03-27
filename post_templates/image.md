@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "<title goes here>"
-date:   2015-03-25
+title:  <title here>
+date:   2015-03-26
 type: image
 categories: images
 ---
+
+![]({{ site.baseurl }}/assets/???.jpg)
+
 
