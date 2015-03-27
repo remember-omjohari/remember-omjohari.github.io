@@ -11,3 +11,6 @@ pagination: 5
 
 # Build settings
 markdown: kramdown
+
+# Exclude post templates
+exclude: post_templates
