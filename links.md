@@ -4,6 +4,8 @@ title: Links
 permalink: /links/
 ---
 
+* [Om Johari's Education and Career: Transcripts, Letters, etc.](https://drive.google.com/folderview?id=0B5VpoQNBOUpOfktQcGlVdGVVeFBjQWp3cEx6QkxIem5YTWR3U2tEdlFOMXhUOWpOakZPZzg&usp=sharing)
+
 * [Om Johari on Handling Grief, from 2011]({{ site.baseurl }}/assets/handling_grief.pdf)
 
 * [YouTube playlist of Om Johari on driving, meditation, and laughter](https://www.youtube.com/playlist?list=PLWRmuRIHKYB-HOEOee15EGEEUucA2fpZL)
