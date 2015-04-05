@@ -11,6 +11,7 @@ We happened to attend a Hindu Satsang event at Lemont temple where Om ji was one
 Me and Ritu were blessed by Om ji's presence at our residence for a day, we were impressed by Om ji's simplicity, his wisdom, affection, compassion and kindness.  We were part of his mailing list and are thankful for his visit to our place.
 
 ॐ त्र्यम्बकं यजामहे सुगन्धिंम् पुष्टिवर्धनम् ।
+
 उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात् ।।
 
 We worship the Three-eyed Lord who is fragrant and who nourishes and nurtures all beings. As is the ripened cucumber (with the intervention of the gardener) is freed from its bondage (to the creeper), may he liberate us from death for the sake of immortality.
