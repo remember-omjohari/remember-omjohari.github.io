@@ -17,3 +17,5 @@ From Osho, *Philosophia Perennis*, Vol. 1, Talk #9:
 
 
 Thank you Dr. Om for sharing with me the beauty of both life and death.
+
+*Om Shanti Shanti Shanti*
