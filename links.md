@@ -16,6 +16,8 @@ permalink: /links/
 
 * [Om Johari on Sudoku in the Chicago Tribune, September 30, 2009](http://articles.chicagotribune.com/2009-09-30/news/0909280341_1_sudoku-difficult-puzzle-mental-workout)
 
+* [Roberta Dietzen blog post on Om Johari, April 28, 2015](http://bkukes.wix.com/robertadietzen#!blog/c92d)
+
 
 
 
